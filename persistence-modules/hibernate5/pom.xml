@@ -106,7 +106,7 @@
         <mariaDB4j.version>2.2.3</mariaDB4j.version>
         <h2database.version>1.4.196</h2database.version>
         <assertj-core.version>3.8.0</assertj-core.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.10.0</jackson.version>
         <openjdk-jmh.version>1.21</openjdk-jmh.version>
     </properties>
 
