@@ -182,10 +182,10 @@
     </dependencies>
 
     <properties>
-        <guava.version>18.0</guava.version>
+        <guava.version>r03</guava.version>
         <jackson.version>2.9.7</jackson.version>
         <jackson-coreutils.version>1.8</jackson-coreutils.version>
-        <guava.version>19.0</guava.version>
+        <guava.version>r03</guava.version>
 
         <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
         <servlet-api.version>2.5</servlet-api.version>
