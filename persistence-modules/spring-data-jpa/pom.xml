@@ -44,7 +44,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.2.5</version>
+            <version>42.2.13</version>
         </dependency>
         <!-- Test containers only dependencies -->
 
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>21.0</version>
+            <version>30.0-android</version>
         </dependency>
         
         <!-- JUnit Jupiter dependencies -->
