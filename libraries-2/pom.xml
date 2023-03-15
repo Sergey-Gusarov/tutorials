@@ -38,6 +38,6 @@
 	</dependencies>
 
 	<properties>
-		<jbpm.version>6.0.0.Final</jbpm.version>
+		<jbpm.version>6.1.0.Final</jbpm.version>
 	</properties>
 </project>
