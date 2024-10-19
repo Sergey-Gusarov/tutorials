@@ -216,7 +216,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -539,7 +539,7 @@
 		<jboss-marshalling.version>1.4.2.Final</jboss-marshalling.version>
 		<weld.version>2.1.1.Final</weld.version>
 		<h2.version>1.4.178</h2.version>
-		<jersey-container-jetty-servlet.version>2.22.1</jersey-container-jetty-servlet.version>
+		<jersey-container-jetty-servlet.version>3.0.0</jersey-container-jetty-servlet.version>
 	</properties>
 
 </project>
