@@ -198,7 +198,7 @@
 
         <!-- util -->
         <guava.version>19.0</guava.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <jackson.version>2.9.7</jackson.version>
 
         <!-- Maven plugins -->
